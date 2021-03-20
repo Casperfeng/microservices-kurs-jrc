@@ -1,0 +1,19 @@
+{
+  "name": "microservices-kurs-jrc",
+  "version": "1.0.0",
+  "description": "kurs for jrc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casperfeng/microservices-kurs-jrc.git"
+  },
+  "author": "casper feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casperfeng/microservices-kurs-jrc/issues"
+  },
+  "homepage": "https://github.com/Casperfeng/microservices-kurs-jrc#readme"
+}
